@@ -1,0 +1,27 @@
+.row{   
+
+    background-color:#FF5733  ;
+    color:white;
+    font-size:20px;
+    display:flex;
+    justify-content:space-around;
+    
+}
+.headshot{
+    width:30%;
+   rotation:90deg;
+   border-color:#ff3300;
+   border-radius: 100%;
+}
+.mid{
+    background-image:url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/S15GBCm/videoblocks-orange-abstract-background-loop-corporate-and-technology-background-for-your-text-or-logo-full-hd-and-4k-more-versions-and-colors-are-available-elegant-flat-abstract-background_hororjesl_thumbnail-full02.png");
+    color:black;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.aboutme{
+    border:1px solid black;   
+}
+body{background-color:#ffff00;}
